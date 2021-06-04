@@ -29,8 +29,8 @@ Los usuarios deben poder:
 
 ### Enlaces
 
-- Solucion URL: [GitHub](https://your-solution-url.com)
-- Sitio web subido URL: [Netlify](https://your-live-site-url.com)
+- Solucion URL: [GitHub](https://github.com/SergioMMoreno/Stats-preview-card-component---Solucion)
+- Sitio web subido URL: [Netlify](https://xenodochial-carson-d27911.netlify.app/)
 
 ## Mi proceso
 
